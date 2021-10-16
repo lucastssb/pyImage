@@ -13,7 +13,7 @@
 
 ## 💻 Project
 
-This is just a very simple scrip to manipulate images.
+This is just a very simple script to manipulate images made for image processing class.
 
 ## :rocket: Technologies
 
