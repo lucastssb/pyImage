@@ -62,7 +62,7 @@ If everything worked out you will find a new image in the same folder as the `ap
 # Invert the color of the image and save of it in the same folder
 $ python app.py image.jpg -invert
 ```
-### You can also use the following flags
+### You can use the following flags
 - `-g`: Split the image and save the green channel of it in the same folder
 - `-b`: Split the image and save the blue channel of it in the same folder
 - `-r`: Split the image and save the red channel of it in the same folder
